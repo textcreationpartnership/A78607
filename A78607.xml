@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge of the Army, and counsel of war, against the King. With a brief answer thereunto by some of the loyall party.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78607</idno>
+            <idno type="STC">Wing C2059</idno>
+            <idno type="STC">Thomason E536_20</idno>
+            <idno type="STC">ESTC R205339</idno>
+            <idno type="EEBO-CITATION">99864747</idno>
+            <idno type="PROQUEST">99864747</idno>
+            <idno type="VID">116979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116979)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge of the Army, and counsel of war, against the King. With a brief answer thereunto by some of the loyall party.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116979:1" rendition="simple:additions"/>
+            <p>THE Charge OF THE ARMY, And COVNSEL of WAR, Againſt the KING. <hi>With a brief ANSWER thereunto by ſome of the Loyall Party.</hi>
+            </p>
+            <p>Printed in the Yoer. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="accusation">
+            <pb facs="tcp:116979:2"/>
+            <pb n="3" facs="tcp:116979:2"/>
+            <head>The Charge of the ARMY againſt the KING.</head>
+            <list>
+               <label>I.</label>
+               <item>THat his favourite, (the Duke of <hi>Buckingham)</hi> by his conſent, laid a Plaſter to King <hi>Iames,</hi> and gave him a Drinke, when he was ſick of an Ague, although the ſworne Phyſitians had forbidden any to preſume to give the King any thing without their Direction<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; of which Plaifter and Drink applyed to him, he dyed not long after, his body preſently bliſtering and ſwelling up with the poyſon thereof: being an Act of a tranſcendent preſumption, and of the higheſt Treaſon, and cannot be judged by us any other then <hi>Murder</hi> and <hi>Patricide.</hi>
+               </item>
+               <label>II.</label>
+               <item>That he hath betrayed his Truſt repoſed on him by the People; Broken his <hi>Coronation Oath,</hi> raiſed Moneys unjuſtly by privie Seals, Monopolies, Ship-money; unjuſtly impriſon<g ref="char:EOLhyphen"/>ed Sir <hi>Dudley Digges</hi> and Sir <hi>John Eliott,</hi> and cauſed new Oathes <hi>Ex Officio,</hi> &amp;c. to be impoſed, and forced on the <hi>People.</hi>
+               </item>
+               <label>III.</label>
+               <item>That he hath complyed with, and favoured <hi>Papiſts,</hi> as may appear by his Letter to the <hi>Pope,</hi> carrying on a D ſigne to in<g ref="char:EOLhyphen"/>troduce Innovations, Seperſtition and Popery into the Church, and Tyranny into the State, that the whole Kingdome might be brought into irrecoverable ſlavery.</item>
+               <pb n="4" facs="tcp:116979:3"/>
+               <label>IV.</label>
+               <item>That he kept back ſupplyes, from going to relieve <hi>Rochel,</hi> ſo that many Proteſtants were betrayed to famine, and the ſword of the Enemy.</item>
+               <label>V.</label>
+               <item>That he occaſioned the bringing in of the <hi>Spanish-Fleet</hi> into England.</item>
+               <label>VI.</label>
+               <item>That he raiſed a Warr upon his Parliament, to deſtroy the very beeings of Parliaments for ever after.</item>
+               <label>VII.</label>
+               <item>That he endeavoured to bring over the Iriſh to deſtroy the parliament; and gave Commiſſions to the Rebells in <hi>Ireland;</hi> and made ſtop of the Ammunition ſent by the Parliament for the relief of that languiſhing Kingdome.</item>
+               <label>VIII.</label>
+               <item>For his guilt of ſhedding all the innocent Blood in the three Kingdomes.</item>
+               <label>IX.</label>
+               <item>For his late inviting in the Scotts to invade this Kingdome.</item>
+            </list>
+            <p>FOr theſe Reaſons, it is concluded by the <hi>Generall Counſell</hi> of the <hi>Army,</hi> That all ſuch ſhall be proceeded againſt as <hi>Traytors,</hi> who ſhall act or ſpeak in the Kings behalf till he ſhall be accquitted of all theſe Charges againſt him, and of the guilt of ſhedding Innocent Blood.</p>
+         </div>
+         <div type="rebuttal">
+            <pb n="5" facs="tcp:116979:3"/>
+            <head>
+               <hi>A brief ANSWER to the</hi> Charge <hi>againſt His</hi> MAJESTIE.</head>
+            <p>WHo can behold the Pride and aſpiring Ambiti<g ref="char:EOLhyphen"/>on of theſe Martiall Tyrants, their deep <hi>Plotts</hi> and Treacheries againſt God and Man, Go<g ref="char:EOLhyphen"/>ſpel and Law, Nature and Reaſon, King, Par<g ref="char:EOLhyphen"/>liament and Kingdome, without being palſie-ſtrook at the ſad conſideration thereof; eſpecially conſidering, That a Free-born People but lately complaining of their ſlaviſh ſervitude under the King, and his Cavalry, and the cruel Bondage they groaned under, by this preſent Parliament, their griping Committees, and the reſt of their <hi>Tormentors,</hi> ſhould now without any di<g ref="char:EOLhyphen"/>ſtruſt, ſo willingly lay down their necks to be troden on by an audacious, mal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipart over-ruling Army of Independents, who having uſurped a Power, contemne and controul King and parliament, City and people, gulling and decoying them into a belief of <hi>Liberty</hi> and <hi>Freedome,</hi> (the better to colour and drive on their Deſignes) when really they intend nothing leſs then to linke and yoak the deluded people to Slavery and Bondage, whil'ſt their Eſtates, Lives, Fortunes, Liberties and Reſigion muſt all be forced to proſtrate themſelves to the glittering of a Naked Sword, all being at the <hi>Armyes</hi> command, and diſpoſe<g ref="char:EOLhyphen"/>able at their pleaſure, who mean ſtill to perſiſt in cruell murders and unnaturall Diſcords, as if the ſpirit of Diſcord had quite vanquiſhed the Spirit of PEACE and Love; and nothing could be concluded of, but by Blood and Rapine, Mutinies, and Trea<g ref="char:EOLhyphen"/>cheries, the ſubvertion of the KING, and his Poſterity, Parlia<g ref="char:EOLhyphen"/>ment, City and Kingdom, and the utter extirpation of all Law, Government &amp; Religion, changing or converting a well-regu<g ref="char:EOLhyphen"/>lated <hi>Monarchy</hi> into a <hi>Military Anarchy,</hi> choſing a popular Par<g ref="char:EOLhyphen"/>liament of unquallified Commons, unexperienc'd in the Laws of the Land (ſuch as many of them cannot write nor read) to Rule and Govern us; which New parliament ſhall alwayes be
+<pb n="6" facs="tcp:116979:4"/>at the beck of the Army; for what can be elſe expected, but a continuall trade of Warre and Tyrany, ſo long as the <hi>Senſe of the Army</hi> ſhall be the <hi>Supream Law</hi> of the Realme. Beſides, how ſtrange will it be to the People, that were lately Govern'd by one KING, now to be govern'd by above 400 Tyrants; and they but lately ruled by a well regulated <hi>Monarchy,</hi> now to be govern'd by a Military <hi>Anarchy</hi> or Democracy, that were once gently chaſti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with rods, now to be ſcourged with ſcorpi<g ref="char:EOLhyphen"/>ons. O ye deluded people, be not deceived by theſe Deceivers; who not long agoe in their Declarations, Remoſtrances, Pro<g ref="char:EOLhyphen"/>poſalls, and Letters proteſted, They would endeavor to preſerve the Prerogative and Honor of the King, and ſettle him in Peace and happineſs in his Throne; maintaine the Priviledges of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> the Liberty of the Subject, eſtabliſh a true and ſound Religion, and ſettle a firme and laſting Peace in this Kingdom: and are they not as good as their words, when they goe about to murder their Soveraine? Is this their way to ſet him on his Throne in peace? It is indeed, to ſettle him in his Throne in heaven: Is it to uphold the <hi>Priveledge of Parliament,</hi> to ſeize on 11. Members upon a meer pretence of ſome great thing laid to their Charge, when nothing could be proved againſt them, and under the ſame pretence to carry away above 40 more, all be<g ref="char:EOLhyphen"/>ing rightly elected? Is this their way to uphold the Priviledges of Parliament? ſurely it is the way to diſolve the <hi>Parliament,</hi> and the <hi>Priviledges</hi> thereof. Is it for the <hi>Liberty</hi> of the <hi>Subject,</hi> to rob and plunder Halls, or prey on any that are well-affected to the King and parliament? Is it to ſettle ſound Religion, to make Gods Houſe a ſtable, nay a Jakes; and to tollerate all religions but the Catholick. And are we not like to enjoy a la<g ref="char:EOLhyphen"/>ſting <hi>Peace,</hi> when wee and all we have are at the mercy of their Swords? O the deluſions of theſe <hi>Deluders!</hi> Curſed be their Rage, for it is fierce, and their Policy, for it is Devilliſh.</p>
+            <p>But now we will briefly Anſwer your ſeverall Charges a<g ref="char:EOLhyphen"/>gainſt his Majeſtie. Firſt, for his PERSON it is well known to moſt of his Subjects, That he hath alwayes been as Vertu<g ref="char:EOLhyphen"/>ous God'y and temperate a Prince as ever Reign'd in <hi>England;</hi> an Example to all his Subjects for his conſtant Deuotions to God; Wiſe, Juſt, Merciful, and prone to Clemency &amp; goodneſs.</p>
+            <pb n="7" facs="tcp:116979:4"/>
+            <p>For his conſenting to the poyſoning of his Father, we ſhall not need to take much paines to Anſwer, it being but an ugly vizard they put upon His Majeſtie, to make him look deformed in the eyes of his Subjects, not any Naturall Deformity in his Countenance or Minde; for which ſuppoſed crime, and the raiſing of a Warre upon his Subjects, His Majeſtie ſaid, he would never ask God forgiveneſſe, for the leaſt thought of ei<g ref="char:EOLhyphen"/>ther never entred into his Princely breaſt: But it ſeems <hi>Buck<g ref="char:EOLhyphen"/>ingham</hi> applyed a plaſter, and gave King <hi>Iames</hi> a Drink when he was ſick of an Ague: this may be true, But doth this argue, that it was by conſent of the Prince, with intent to murder his Father; (the poyſon of <hi>Aſpes</hi> is under their tongues,) was he not Heire apparent to the Crown, and by conſequence of time, it could not be long before he enjoy'd it; neither could a ſon be more dutifull to a parent, then this Pri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce was to his Royal Father. — Indeed King <hi>Iames</hi> forbearing his accuſtomed ex<g ref="char:EOLhyphen"/>erciſe, betook himſelf to drink more then his accuſtomed uſe was to doe, which occaſioned a Feavoriſh Ague, and a droppi<g ref="char:EOLhyphen"/>call humor to predominate; whereupon, (impatient of pain) he reſolved to make tryall of that plaſter and Drink that he knew but a while before had cured a great Perſon of the ſame Diſ<g ref="char:EOLhyphen"/>caſe; beſides the Phyſitians and Apothecaries knew all the In<g ref="char:EOLhyphen"/>gredients to be good. The Kings body being opened, was found fair and cleer; Neither had Prince <hi>Charles</hi> knowledge of apply<g ref="char:EOLhyphen"/>ing the ſaid plaſter and Drink, and yet is adjudged by them to be guilty of murder and patricide.</p>
+            <p>For betraying his Truſt, breaking his Coronation Oath, or raiſing money &amp;c. What hath he ſuffered for theſe 7. years, but for maintaining his Oath, the eſtabliſhed Religion, and known Lawes and Statures: Had his ſubjects been half ſo conſcienci<g ref="char:EOLhyphen"/>ous of <hi>Perivry,</hi> as his Majeſty, <hi>England</hi> had not been at the paſſe it now is. For Ship-mony, Monopolies, Oaths, &amp;c. What was it then to this now? have we not Loans extorted, Cuſtomes in<g ref="char:EOLhyphen"/>creaſt Exize, Contributions, Sequeſtrations, Fift parts, Twenty parts, Meal-mony, ſale of plunder'd Goods, Benevolences, Col<g ref="char:EOLhyphen"/>lections on Faſts. Fifty Subſidies, Compoſitions, ſale of Biſhops Lands Impoſitions on all Merchandizes; and contradicting Oaths &amp; Covenants: then pray who is moſt guilty, His Majeſty, or you?</p>
+            <pb n="8" facs="tcp:116979:5"/>
+            <p>But he complyed with Papiſts—Elſe he had not known his Wife: But were not the Laws and Statutes duely executed a<g ref="char:EOLhyphen"/>gainſt Papiſts, and popiſh Recuſants; impudence cannot deny it. For his Anſwer to the <hi>Popes</hi> Letter, What he did in a ſtrange Country was for ſafty of his perſon. For his Religion, I refer you to His <hi>Proteſtation.</hi>
+            </p>
+            <p>But <hi>Rochel</hi> was betray'd for want of aide: the Windes were the Traytors then; yet they were ſo really a yded, that Cardi<g ref="char:EOLhyphen"/>nal <hi>de Richilieu</hi> had cauſe to remember it: beſides it was a for<g ref="char:EOLhyphen"/>rain war, ſo as what his Majeſty did, he might do lawfully, and no doubt, But juſtly in reſpect of his own Conſcience.</p>
+            <p>For the Spaniſh Fleet; If the Kings ſhips had joyned with them, where had the <hi>Hollander</hi> been then? but his Majeſtie was ſo farre from the leaſt intention thereof, that he ſuffered a great affront in his own Harbors; not for want of ſtrength.</p>
+            <p>For raiſing war againſt his Subjects; it could not be, for the King knew, That his ſtrength lay in the number of his People, and to deſtroy them, was to deſtroy himſelf; he was not the firſt that raiſed Forces, and when he did, it was to defend himſelf, firſt uſing all fair means to prevent the ſhedding of innocent Blood, on any conditions as might ſtand with his Honor, with out breach of his Coronation Oath, conjuring them by all the bonds of Duty, to deſiſt from their unnaturall Rebellion; but they would not, Therefore he calls Heaven and Earth to wit<g ref="char:EOLhyphen"/>neſs, <hi>That He would wash his hands from all the</hi> Innocent Blood <hi>that muſt neceſſarily be ſpilt in that Quarrell.</hi>
+            </p>
+            <p>For <hi>Ireland,</hi> It could never be prou'd, that ever he gave the leaſt countenance to that Rebellion, much leſs ever granted them Commiſſion, as is by ſome idly ſuggeſted, and by Mr. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> was ſo labored to prove; Indeed when his Majeſties Ho<g ref="char:EOLhyphen"/>nor was troden down here, they had an Evidence, and example to Rebell there; and when their owne party were uſed ſo ri<g ref="char:EOLhyphen"/>gerouſly here, to uſe the like cruelty, or worſe there over our Proteſtant Brethren.</p>
+            <p>For His Majeſties having a hand in bringing in the Scots, I beleeve is as true as the reſt; and better known to his Majeſties Jaylors then my ſelf.</p>
+            <p>Thus you make the <hi>King</hi> the foyle, to ſet off you brightneſs, and yet you prove but the cloud that darkens his Light.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116979:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
